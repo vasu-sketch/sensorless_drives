@@ -21,10 +21,10 @@ Using 4 models in the part 2 of project 1. SGD Classifier 2. KNN Classification 
 SGD Classifier and KNN models requires the transformation, Random forest and decision trees does not require the data transformation.
 
 # part -3 
-
-
-
-
-
-
+In the part-3 of the project, the classification analysis is done with the 1. svm Linear 2. SVM Non Linear 3. Multi Layered Perceptron
+The first variable selection is done with the lasso regression, by selecting the best varibles for the model.\
+The second variable selection is done with the Bi-directional elimation.
+The clustering is done using K-means clustering, best clusters with Silhouette score and parallel coordinates.
+Visualization part of the project is done with the 2-component and 3-component PCA.
+Ensemble model is created with combining all the models from part-2, part-3.
 
